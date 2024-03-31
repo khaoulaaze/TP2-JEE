@@ -5,3 +5,4 @@
 <img src="captures/capture3.png">
 <img src="captures/capture4.png">
 <img src="captures/capture5.png">
+<img src="captures/capture6.png">
