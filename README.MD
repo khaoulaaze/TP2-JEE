@@ -1,4 +1,4 @@
-<h3>Compte rendu</h3>
+<h3>Compte rendu TP2 Products</h3>
 
 <img src="captures/capture1.png">
 <img src="captures/capture2.png">
